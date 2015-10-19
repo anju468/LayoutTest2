@@ -1,0 +1,44 @@
+html {
+  font-family: fantasy;
+  background-color: #D8CEDA;
+}
+h1  {
+  text-align: center;
+  display:block;
+  margin:0 2.5%;
+  padding:20px;
+  background-color: #A29F9F;
+  font-family: cursive;
+
+}
+
+.otherpages {
+  display:block;
+  background-color: #CB9CD4;
+  margin:0 2.5%;
+  padding:20px;
+  list-style: none;
+}
+
+.button {
+  display: inline-block;
+  float:left;
+  margin:0 20px;
+  padding:0 5px;
+}
+.container {
+  margin: 0 0 0 2.5%;
+  background-color: #B0E3BD;
+  padding: 20px;
+  max-width: 70%;
+
+}
+.sideb {
+float:right;
+display: inline-block;
+margin: 0 2.5% 0 0;
+background-color: #A5AEE4;
+padding: 20px;
+max-width: 25%;
+
+}
